@@ -1,0 +1,44 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+body{
+    color: #fff;
+    background:rgb(54, 54, 54);
+}
+input{
+    text-align: center;
+    color: #fff;
+    border-radius: 14px;
+    border-color: aqua;
+    background: rgb(0, 110, 110);
+    width: 150px;
+    height: 21px;
+}
+button{
+    color: rgb(54, 54, 54);
+    font-weight: bold;
+    font-family:Calibri;
+    background: aqua;
+    border-radius: 14px;
+    border-color: rgb(54, 54, 54);
+    width: 100px;
+    height: 28px;
+}
+button:hover{
+    width: 120px;
+    height:35px ;
+    font-weight: bold;
+    transform: scale(1);
+    border-radius: 17px;
+}
+div{
+    width:fit-content ;
+    height: auto;
+    background:rgb(54, 54, 54) ;
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid;
+    border-radius: 14px;
+    border-color: aqua;
+}
